@@ -9,6 +9,7 @@
       </div>
       <div>openid:{{user.base.openid?user.base.openid:'-'}}</div>
       <div>unionid:{{user.base.unionid?user.base.unionid:'-'}}</div>
+      <div>https://github.com/xuedingmiaojun/scan-login-demo</div>
     </div>
   </div>
 </template>
